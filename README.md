@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Aaryan Sinha
 
 # 💫 About Me:
 🌱 I’m currently learning Full Stack Web Development<br>👯 I’m looking to collaborate on MERN Projects<br>💬 Reach me on aaryansinha16@gmail.com
