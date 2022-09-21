@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&color=7E9CF7&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React;NodeJS;MongoDB;CSS+Animations)](https://git.io/typing-svg)<br>
-🌱 I’m a Full Stack Web Developer<br>👯 I’m looking to collaborate on MERN Projects<br>💬 Reach me on aaryansinha16@gmail.com
+🌱 I’m a Full Stack Web Developer<br>👯 I’m looking to collaborate on MERN Projects<br>💡My Portfolio-> [click here](https://aaryansinha16.github.io) <br>💬 Reach me on aaryansinha16@gmail.com
 
 
 ## 🌐 Socials:
