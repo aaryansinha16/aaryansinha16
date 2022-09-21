@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=aaryansinha16&icon=5&color=12)](https://visitcount.itsvg.in)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Aaryan+Sinha)](https://git.io/typing-svg)
 
 
@@ -22,4 +24,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=aaryansinha16&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aaryansinha16&icon=5&color=12)](https://visitcount.itsvg.in)
+
