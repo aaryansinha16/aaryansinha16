@@ -41,12 +41,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=aaryansinha16&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aaryansinha16&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansinha16&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
+<br/>
+<div align="center">
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryansinha16&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Aaryansinha16" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansinha16&layout=compact&hide=Shell&border_radius=0&theme=dark" alt=Aaryansinha16" height="139" />
-    
+<br/>
 </p>
-<div align="center">
 <img src="https://leetcard.jacoblin.cool/aaryansinha16?ext=activity" />
 <br /><br />
 </div>
