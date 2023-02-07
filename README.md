@@ -48,7 +48,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansinha16&layout=compact&hide=Shell&border_radius=0&theme=dark" alt=Aaryansinha16" height="139" />
 <br/>
 </p>
-<img src="https://leetcard.jacoblin.cool/aaryansinha16?ext=activity" />
+<img src="https://leetcard.jacoblin.cool/aaryansinha16?ext=heatmap" />
 <br /><br />
 </div>
 
