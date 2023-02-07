@@ -46,7 +46,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansinha16&layout=compact&hide=Shell&border_radius=0&theme=dark" alt=Aaryansinha16" height="139" />
     
 </p>
-
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/aaryansinha16?ext=activity" />
+<br /><br />
+</div>
 
 [![Aaryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=aaryansinha16&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
