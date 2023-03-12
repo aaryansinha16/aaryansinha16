@@ -54,7 +54,7 @@
 
 [![Aaryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=aaryansinha16&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 <!-- adf -->
 ---
 <p align="center">
