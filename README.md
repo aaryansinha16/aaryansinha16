@@ -25,6 +25,8 @@
 
 - 📫 Contact me **aaryansinha16@gmail.com**
 
+- 📖 I regularly write here: [My Medium](https://medium.com/@aaryansinha16)
+
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1shqBYMZmyWMetN5bIFXu2qbBxNT84xRE/view?usp=sharing)
 
 
