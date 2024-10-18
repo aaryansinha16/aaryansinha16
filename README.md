@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aaryansinha16.github.io/)
 
-- 💬 Ask me about <b>MERN Stack</b>
+- 💬 Ask me anything techie
 
 - 📫 Contact me **aaryansinha16@gmail.com**
 
