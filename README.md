@@ -41,13 +41,6 @@ Contracted as a JavaScript/TypeScript domain expert to train and evaluate large 
 
 ---
 
-### Software Engineer (Full Stack) — Brainerhub Solutions
-📍 Ahmedabad, India · **2023 – Nov 2024**
-
-Managed 3+ concurrent client projects as solo full-stack owner. Built ad analytics dashboard across 4 ad platforms. Integrated 6+ third-party APIs. Awarded 'Rising Star' within first year.
-
----
-
 ### Freelance Full-Stack Developer
 🌐 Self-employed · Remote · **Nov 2018 – Mar 2023**
 
