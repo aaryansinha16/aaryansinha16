@@ -208,8 +208,6 @@ Intensive full-time engineering program: JavaScript, React, Node.js, DSA, System
 
 **Amity University** — BCA (Bachelor of Computer Applications) *(Aug 2020 – Mar 2022)*
 
-**Maheshwari Public School** — Senior Secondary (PCM, Kota) *(2019 – 2020)*
-
 **Certifications:** Full Stack Development (MasaiSchool) · Basic to Advanced DSA (GeeksForGeeks) · Responsive Web Design (freeCodeCamp) · Professional & Live Skills (Amity University)
 
 ---
